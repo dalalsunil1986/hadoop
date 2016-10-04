@@ -1,0 +1,1 @@
+hadoop jar jbrhadoop/lib/WordCountExample-0.1.jar jbr.hadoop.WordCount /user/themescape/ranjith/jbrhadoop/input/wordcount/testfile.txt /user/themescape/ranjith/jbrhadoop/output/wordcount
